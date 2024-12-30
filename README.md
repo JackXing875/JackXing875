@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://github.com/kyechan99/capsule-render -->
+<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Schrieffer!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
@@ -26,12 +27,11 @@ Here are some ideas to get you started:
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username= Schrieffer&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Schrieffer&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Schrieffer&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={Schrieffer}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Schrieffer&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -48,9 +48,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Schrieffer"><img src="https://img.shields.io/badge/GitHub-Schrieffer-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-1793817828-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=Schrieffer&abbreviated=true&color=yellow" />
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20programming%20be%20with%20you!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20C%20++%20be%20with%20you!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
