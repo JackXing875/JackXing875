@@ -53,5 +53,5 @@ Here are some ideas to get you started:
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20C%20++%20be%20with%20you!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20programming%20be%20with%20you!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
