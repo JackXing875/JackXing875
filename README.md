@@ -67,10 +67,6 @@ Hi, I'm **Schrieffer**, a passionate programmer who loves to work on cool projec
 - **Tools & Platforms**: Git, Docker, Kubernetes, VS Code, Vim
 - **Databases**: MySQL, MongoDB
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,git,docker,kubernetes,mysql,mongodb&theme=light" />
-</p>
-
 ---
 
 ## 📈 GitHub Stats
