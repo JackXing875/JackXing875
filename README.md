@@ -59,10 +59,9 @@ Hi, I'm **Schrieffer**, a passionate programmer who loves to work on cool projec
 
 ## 🌱 Skills & Technologies
 
-- **Programming Languages**: Python, C, C++, Java, JavaScript
-- **Web Development**: HTML, CSS, JavaScript
-- **Tools & Platforms**: Git, Docker, Kubernetes, VS Code, Vim
-- **Databases**: MySQL, MongoDB
+- **Programming Languages**: Python, C, C++, Java
+- **Tools & Platforms**: Docker, VS Code, Vim
+- **Databases**: MySQL
 
 ---
 
