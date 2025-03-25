@@ -66,15 +66,6 @@ Hi, I'm **Schrieffer**, a passionate programmer who loves to work on cool projec
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Schrieffer&theme=transparent&count_private=true&hide_title=true&hide_border=true" />
-  <img width="400" src="https://streak-stats.demolab.com?user=Schrieffer&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🧑‍💻 My Projects
 
 Here are some of the cool projects I've worked on:
