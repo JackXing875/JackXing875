@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->
