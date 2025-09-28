@@ -43,33 +43,21 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Hi, I'm **Schrieffer**, a passionate programmer who loves to work on cool projects! Currently, I am exploring the vast world of **AI**, **Machine Learning**, and **Web Development**. Always open to collaboration and learning new things!
+Hi, I'm **Schrieffer**, a passionate programmer! Currently, I am exploring the vast world of **AI**, **Machine Learning**, and **Web Development**. Always open to collaboration and learning new things!
 
 ---
 
 ## 🌱 Skills & Technologies
 
 - **Programming Languages**: Python, C, C++, Java
-- **Tools & Platforms**: Docker, VS Code, Vim
+- **Tools & Platforms**: VS Code, Vim
 - **Databases**: MySQL
-
----
-
-## 🧑‍💻 My Projects
-
-Here are some of the cool projects I've worked on:
-
-- **AI Digital Helper for Farmers**: A project aimed at providing AI-powered solutions to assist farmers in the modern agricultural world.
-- **Machine Learning Models**: Open-source models designed to solve real-world problems using machine learning algorithms.
-
-Feel free to check them out and contribute if you like!
 
 
 ## 🎮 Fun Facts
 
-- 🌍 I'm passionate about technology's role in **rural development** and **AI applications** in agriculture.
-- 🎮 When I’m not coding, I love exploring **strategy games** and **VR technologies**.
-- 📚 I enjoy reading classics and modern literature, including works like **Les Misérables** and **Journey to the West**.
+- 🎮 I'm a super fan of Elden Ring and Dark Souls Series.I am also fond of Monster Hunters series!
+- 📚 I enjoy reading classics and Chinese ancient poetry.
   
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
