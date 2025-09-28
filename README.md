@@ -58,6 +58,7 @@ Hi, I'm **Schrieffer**, a passionate programmer! Currently, I am exploring the v
 
 - 🎮 I'm a super fan of Elden Ring and Dark Souls Series.I am also fond of Monster Hunters series!
 - 📚 I enjoy reading classics and Chinese ancient poetry.
+- ✨ Linux forever!
   
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
