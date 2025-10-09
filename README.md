@@ -24,9 +24,7 @@
   
   <div>&nbsp;</div>
 
-  <h2>🏢 Experience</h2>
-
-  <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" alt="Inspur" />
+  <h2>🏢 Experience</h2
 
   - [中国人民大学](https://www.ruc.edu.cn/)   📌 2024.9 —— now
     - SLAM 算法开发
