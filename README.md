@@ -16,22 +16,6 @@
   <div>&nbsp;</div>
 
   <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-  
-  <h2>🤺 About Me</h2>
-
-  <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" alt="Avatar" />
-
-  <p>&emsp;&emsp;嗨，我是 Schrieffer，一个喜欢探索技术与思考世界的人。</p>
-  <p>&emsp;&emsp;享受编程带来的乐趣和挑战！</p>
-  
-  <div>&nbsp;</div>
-
-  <h2>🏢 Experience</h2
-
-  - [中国人民大学](https://www.ruc.edu.cn/)   📌 2024.9 —— now
-    - SLAM 算法开发
-
-  <div>&nbsp;</div>
 
   <h2>🛠️ Skills</h2>
   <p>
