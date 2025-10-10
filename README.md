@@ -39,7 +39,7 @@
 
 <tr><td>
 
-## 🏢 Work Experience
+## 🏢 Experience
 
 <img align="right" width="200" src="https://www.ruc.edu.cn/template/1/out/imgs/VI/1.png" />
 
