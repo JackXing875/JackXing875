@@ -99,3 +99,7 @@
   </p>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20Java%20be%20with%20you!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
