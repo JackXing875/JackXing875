@@ -16,47 +16,38 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JackXing875/JackXing875/output/github-contribution-grid-snake.svg">
 </picture>
 
-<table>
-  
 #  🙋 Hello
 
-<table>
-  
-<tr><td>
+<table width="100%">
+
+<tr>
+  <td width="70%" style="vertical-align: top;">
 
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是Schrieffer。热爱编程、文学、电影。</p>
-<p>&emsp;&emsp;想要创造属于自己的操作系统！</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>Long May the Sun Shine！</strong></p>
+<p>嗨，我是Schrieffer。热爱编程、文学、电影。</p>
+<p>想要创造属于自己的操作系统！</p>
+<p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p><strong>Long May the Sun Shine！</strong></p>
 
+  </td>
+</tr>
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-</td></tr>
-
-<tr><td>
+<tr>
+  <td width="100%" style="vertical-align: top;">
 
 ## 🏢 Work Experience
 
 <img align="right" width="300" src="https://www.ruc.edu.cn/template/1/out/imgs/VI/1.png" />
 
-- [中国人民大学](https://www.ruc.edu.cn/)   📌 2024-09 —— 2028.6
-
-  - 所在学院：高瓴人工智能学院
+- [中国人民大学](https://www.ruc.edu.cn/)   📌 2024-09 —— 2028.6  
+  - 所在学院：高瓴人工智能学院  
   - 研究方向：SLAM算法
 
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-</td></tr>
-
-
+  </td>
+</tr>
 
 </table>
 
