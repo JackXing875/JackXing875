@@ -61,14 +61,40 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
+## 📊 GitHub 数据统计
 
+<!-- metrics 基础资料 -->
+<img src="/github-metrics.svg" />
+
+<!-- GitHub 数据统计 -->
+
+<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JackXing875&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+
+<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JackXing875&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
   <h2>🛠️ Skills</h2>
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/SLAM-FF6F61?style=for-the-badge" />
-  </p>
+<p>
+  我擅长以下技术与工具：
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" style="margin:4px; border-radius:4px;" />
+  精通 C++，用于高性能计算与系统底层开发
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" style="margin:4px; border-radius:4px;" />
+  熟练 Python，用于快速原型、算法实现与数据处理
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" style="margin:4px; border-radius:4px;" />
+  精通 Linux 操作系统，掌握命令行与系统管理
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SLAM-FF6F61?style=for-the-badge&logo=robot&logoColor=white" height="28" style="margin:4px; border-radius:4px;" />
+  SLAM 算法实践经验，熟悉机器人定位与建图
+</p>
+
 
   <div>&nbsp;</div>
 
