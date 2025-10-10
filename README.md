@@ -18,10 +18,6 @@
 
  #  🙋 Hello
 
-<table>
-  
-<tr><td width="70%">
-
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
@@ -51,11 +47,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
-</td></tr>
-
-
-
-</table>
 
   <h2>🛠️ Skills</h2>
   <p>
