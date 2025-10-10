@@ -43,7 +43,7 @@
 
 ## 🏢 Work Experience
 
-<img align="right" width="200" src="https://www.ruc.edu.cn/template/1/out/imgs/VI/1.png" />
+<img align="right" width="300" src="https://www.ruc.edu.cn/template/1/out/imgs/VI/1.png" />
 
 - [中国人民大学](https://www.ruc.edu.cn/)   📌 2024-09 —— 2028.6
 
