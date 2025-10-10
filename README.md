@@ -20,7 +20,7 @@
 
 <table>
   
-<tr><td>
+<tr><td width="70%">
 
 ### 🤺 About Me
 
