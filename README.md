@@ -68,26 +68,36 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  <h2>🛠️ Skills</h2>
-<p>
-  我擅长以下技术与工具：
-</p>
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" style="margin:4px; border-radius:4px;" />
-  精通 C++，用于 SLAM 算法设计
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" style="margin:4px; border-radius:4px;" />
-  熟悉 Python，用于快速原型、算法实现与数据处理
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" style="margin:4px; border-radius:4px;" />
-  精通 Linux 操作系统
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SLAM-FF6F61?style=for-the-badge&logo=robot&logoColor=white" height="28" style="margin:4px; border-radius:4px;" />
-  熟悉 SLAM 算法，熟悉机器人定位与建图
-</p>
+ <h2>🛠️ Skills</h2>
+<p>我擅长以下技术与工具：</p>
+
+<table>
+  <tr>
+    <td width="220">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
+    </td>
+    <td>精通 C++，用于 SLAM 算法设计</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
+    </td>
+    <td>熟悉 Python，用于快速原型、算法实现与数据处理</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" />
+    </td>
+    <td>精通 Linux 操作系统</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SLAM-FF6F61?style=for-the-badge&logo=robot&logoColor=white" height="28" />
+    </td>
+    <td>熟悉 SLAM 算法，掌握机器人定位与建图</td>
+  </tr>
+</table>
+
 
 
   <div>&nbsp;</div>
