@@ -41,7 +41,7 @@
 
 ## 🏢 Experience
 
-<img align="right" width="200" src="img.png" />
+<img align="right" width="200" src="img2.png" />
 
 - [中国人民大学](https://www.ruc.edu.cn/) &emsp; 📌 2024-09 —— 2028.06
 
