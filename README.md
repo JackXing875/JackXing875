@@ -43,7 +43,7 @@
 
 <img align="right" width="200" src="img.png" />
 
-- [中国人民大学](https://www.ruc.edu.cn/) &emsp; 📌 2024-09 —— 2028.06
+- [中国人民大学](https://www.ruc.edu.cn/) &emsp; 📌 2024.09 —— 2028.06
 
   - 所在学院：高瓴人工智能学院
   - 研究方向：SLAM 算法
