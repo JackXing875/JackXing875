@@ -10,11 +10,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackXing875/JackXing875/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackXing875/JackXing875/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JackXing875/JackXing875/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://raw.githubusercontent.com/JackXing875/JackXing875/main/assets/github-contribution-grid-snake.svg)
 
 #  🙋 Hello
 
