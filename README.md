@@ -22,7 +22,7 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是Schriefffer。热爱文学、电影、旅行与电子游戏。</p>
+<p>&emsp;&emsp;嗨，我是Maliketh。热爱文学、电影、旅行与电子游戏。</p>
 <p>&emsp;&emsp;想要从零开始实现属于自己的操作系统，内核、CPU 架构、编译器与网络栈......</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
