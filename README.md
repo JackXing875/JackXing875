@@ -49,7 +49,7 @@
 - [中国人民大学](https://www.ruc.edu.cn/) &emsp; 📌 2024.09 —— 2028.06
 
   - 所在学院：高瓴人工智能学院
-  - 研究方向：SLAM 算法
+  - 研究方向：视觉 SLAM 
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
