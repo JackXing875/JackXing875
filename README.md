@@ -10,8 +10,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
-![](https://github.com/JackXing875/JackXing875/blob/output/github-snake.gif?raw=true)
-
+![](https://raw.githubusercontent.com/JackXing875/JackXing875/main/assets/github-contribution-grid-snake.svg)
 #  🙋 Hello
 
 <table>
