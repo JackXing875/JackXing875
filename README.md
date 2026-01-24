@@ -97,13 +97,6 @@
 
   <div>&nbsp;</div>
   
-## 📊 GitHub 数据统计
-
-<!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
 
   <div>&nbsp;</div>
 
