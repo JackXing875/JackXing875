@@ -19,20 +19,24 @@
        src="https://raw.githubusercontent.com/JackXing875/JackXing875/output/github-contribution-grid-snake.svg" />
 </picture>
 
-#  🙋 Hello
+<br />
+
+  <div>&nbsp;</div>
+
+#  Hey there! 👋
 
 <table>
   
 <tr><td>
 
-### 🤺 About Me
+### 🌟 About Me
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是Maliketh。热爱文学、电影、旅行与电子游戏。</p>
-<p>&emsp;&emsp;想要从零开始实现属于自己的操作系统，内核、CPU 架构、编译器与网络栈......</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;Hi, I'm <strong>Maliketh</strong>. I harbor a deep passion for literature, cinema, travel, and video games.</p>
+<p>&emsp;&emsp;My technical ambition is to <strong>architect a bespoke operating system from scratch</strong></p>
+<p>&emsp;&emsp; — encompassing the kernel, CPU architecture, compiler design, and network stack.</p>
+<p>&emsp;&emsp;<em>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</em></p>
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -42,14 +46,14 @@
 
 <tr><td>
 
-## 🏢 Experience
+## 🏢 Experience & Education
 
 <img align="right" width="200" src="img.png" />
 
-- [中国人民大学](https://www.ruc.edu.cn/) &emsp; 📌 2024.09 —— 2028.06
+- [Renmin University of China (RUC)](https://www.ruc.edu.cn/) &emsp; 📌 2024.09 —— 2028.06
 
-  - 所在学院：高瓴人工智能学院
-  - 研究方向：视觉 SLAM 
+  - <p><em>Gaoling School of Artificial Intelligence</em></p>
+  - <p><em>Visual SLAM (Simultaneous Localization and Mapping)</em></p>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -63,51 +67,59 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
+
+  <br />
 
 <h2>🛠️ Skills</h2>
-<p>擅长以下技术与工具：</p>
+<p>Technologies and tools I utilize for research and development:</p>
 
 <table>
   <tr>
-    <td width="220">
+    <td width="160" align="center">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
     </td>
-    <td>熟悉 C++，用于 SLAM 算法设计</td>
+    <td><strong>Core Proficiency:</strong> Utilized for high-performance SLAM algorithm design and system-level programming.</td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
     </td>
-    <td>熟悉 Python，用于快速原型、算法实现与数据处理</td>
+    <td><strong>Rapid Prototyping:</strong> Used for algorithm verification, data processing, and scripting.</td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" />
     </td>
-    <td>熟悉 Linux 操作系统</td>
+    <td><strong>Environment:</strong> Deep familiarity with Linux kernel internals and shell command-line workflows.</td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/SLAM-FF6F61?style=for-the-badge&logo=robot&logoColor=white" height="28" />
     </td>
-    <td>熟悉 SLAM 算法，掌握机器人定位与建图</td>
+    <td><strong>Domain Expertise:</strong> Robot localization, mapping, and state estimation (V-SLAM).</td>
   </tr>
 </table>
 
   <div>&nbsp;</div>
   
+<br />
 
-  <div>&nbsp;</div>
-
-  <h2>📫 Contact</h2>
+  <div align="center">
+  <h2>📫 Connect with Me</h2>
   <p>
-    <a href="mailto:xjack875@gmail.com">📧 Email</a> |
-    <a href="https://github.com/JackXing875">🐱 GitHub</a> |
+    <a href="mailto:xjack875@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/JackXing875">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
+</div>
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Long%20May%20the%20Sun%20Shine!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
+<br />
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
