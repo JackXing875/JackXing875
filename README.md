@@ -92,12 +92,6 @@
     </td>
     <td><strong>Environment:</strong> Deep familiarity with Linux kernel internals and shell command-line workflows.</td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SLAM-FF6F61?style=for-the-badge&logo=robot&logoColor=white" height="28" />
-    </td>
-    <td><strong>Domain Expertise:</strong> Robot localization, mapping, and state estimation (V-SLAM).</td>
-  </tr>
 </table>
 
   <div>&nbsp;</div>
