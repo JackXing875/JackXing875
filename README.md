@@ -53,7 +53,7 @@
 - [Renmin University of China (RUC)](https://www.ruc.edu.cn/) &emsp; 📌 2024.09 —— 2028.06
 
   - <p><em>Gaoling School of Artificial Intelligence</em></p>
-  - <p><em>Visual SLAM (Simultaneous Localization and Mapping)</em></p>
+  - <p><em>Visual SLAM</em></p>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
