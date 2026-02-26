@@ -69,26 +69,61 @@
   <br />
 
 <h2>🛠️ Skills</h2>
-<p>Technologies and tools I utilize for research and development:</p>
+<p>Research-oriented technical stack for visual odometry, SLAM systems, and learning-based perception:</p>
 
 <table>
   <tr>
-    <td width="160" align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
+    <td width="200" align="center">
+      <strong>Core SLAM Framework</strong>
     </td>
-    <td><strong>Core Proficiency:</strong> Utilized for high-performance SLAM algorithm design and system-level programming.</td>
+    <td>
+      ORB-SLAM architecture, Direct & Feature-based VO, Multi-view Geometry, Pose Graph Optimization, Loop Closure Detection
+    </td>
   </tr>
+
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
+      <strong>State Estimation & Optimization</strong>
     </td>
-    <td><strong>Rapid Prototyping:</strong> Used for algorithm verification, data processing, and scripting.</td>
+    <td>
+      Nonlinear Least Squares (Gauss-Newton, Levenberg–Marquardt), Bundle Adjustment, EKF / MSCKF, Factor Graph Optimization
+    </td>
   </tr>
+
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" />
+      <strong>Geometric Vision</strong>
     </td>
-    <td><strong>Environment:</strong> Deep familiarity with Linux kernel internals and shell command-line workflows.</td>
+    <td>
+      Epipolar Geometry, PnP, Essential / Fundamental Matrix, Triangulation, RANSAC Robust Estimation
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Deep Learning Integration</strong>
+    </td>
+    <td>
+      SuperPoint / SuperGlue Feature Matching, Learned Depth Estimation, Dynamic Object Masking, Visual-Transformer-based Perception
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Mapping & Representation</strong>
+    </td>
+    <td>
+      Sparse / Semi-dense Mapping, Keyframe Management, Map Marginalization, 3D Reconstruction
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Engineering Stack</strong>
+    </td>
+    <td>
+      C++17, Eigen, OpenCV, g2o / Ceres Solver, ROS2, CUDA Acceleration, Linux Development Workflow
+    </td>
   </tr>
 </table>
 
