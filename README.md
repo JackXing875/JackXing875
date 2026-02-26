@@ -2,7 +2,7 @@
 
   <!-- 编程动图 -->
   <picture>
-  <img src="./tenor.gif" alt="Ayachi Nene GIF" width="500px" />
+  <img src="./tenor.gif" alt="Ayachi Nene GIF" width="550px" />
 </picture>
   
   <!-- for beauty 留个空行好看点 -->
