@@ -68,7 +68,7 @@
 
   <br />
 
-<h2>🛠️ Skills</h2>
+<h2>🛠️ Technology Stack</h2>
 <p>Research-oriented technical stack for visual odometry, SLAM systems, and learning-based perception:</p>
 
 <table>
