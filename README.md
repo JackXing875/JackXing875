@@ -33,7 +33,7 @@
 
 ### 🌟 About Me
 
-<img align="right" width="185" src="./585c770090908c98c761dc6cd26d1218.jpg" />
+<img align="right" width="200" src="./585c770090908c98c761dc6cd26d1218.jpg" />
 
 <p>&emsp;&emsp;Hi, I'm <strong>Tim</strong>. I harbor a deep passion for literature, travel, and video games.</p>
 <p>&emsp;&emsp;My technical ambition is to <strong>architect a bespoke operating system from scratch</strong></p>
