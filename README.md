@@ -26,7 +26,7 @@ My work focuses on building practical and high-performance systems for **autonom
 
 * **Languages:** C++17, Python, Java, Go
 * **Technologies:** ORB-SLAM, Direct & Feature-based VO, Graph & Factor Graph Optimization, Loop Closure Detection, EKF / ESKF / Sliding Window Sensor Fusion, Bundle Adjustment, SuperPoint / SuperGlue, Visual Transformers
-* **Tools:** Eigen, OpenCV, g2o / Ceres Solver, ROS2, CUDA, Linux Development Workflow, Lie Group / Lie Algebra, Dynamic Map Update
+* **Tools:** Eigen, OpenCV, g2o / Ceres Solver, ROS2, CUDA, Lie Group / Lie Algebra, Dynamic Map Update
 
 
 
