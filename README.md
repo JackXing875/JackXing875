@@ -1,4 +1,4 @@
-## Hi there, I'm Tiancheng Xing 👋
+## Hi there, I'm Tim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="25px"/>
 
 I'm a second-year undergraduate at **Renmin University of China, Gaoling School of Artificial Intelligence**.
 
