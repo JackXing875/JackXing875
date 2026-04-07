@@ -22,12 +22,13 @@ My work focuses on building practical and high-performance systems for **autonom
 * **[FxxkVO](https://github.com/JackXing875/FxxkVO)**
   * End-to-end lightweight **C++ monocular visual odometry** combining **KLT optical flow tracking** and **robust pose estimation**. Supports **real-time camera trajectory visualization**, demonstrating classical multi-view geometry for spatial perception applications.
 
-
 ### 🛠️ My Tech Stack
 
 * **Languages:** C++17, Python, Java, Go
-* **Technologies:** ORB-SLAM, Direct & Feature-based VO, Pose Graph Optimization, SuperPoint / SuperGlue, Visual Transformers
-* **Tools:** Eigen, OpenCV, g2o / Ceres Solver, ROS2, CUDA, Linux Development Workflow
+* **Technologies:** ORB-SLAM, Direct & Feature-based VO, Graph & Factor Graph Optimization, Loop Closure Detection, EKF / ESKF / Sliding Window Sensor Fusion, Bundle Adjustment, SuperPoint / SuperGlue, Visual Transformers
+* **Tools:** Eigen, OpenCV, g2o / Ceres Solver, ROS2, CUDA, Linux Development Workflow, Lie Group / Lie Algebra, Dynamic Map Update
+
+
 
 
 
