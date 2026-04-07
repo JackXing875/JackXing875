@@ -22,7 +22,6 @@ My work focuses on building practical and high-performance systems for **autonom
 * **[FxxkVO](https://github.com/JackXing875/FxxkVO)**
   * End-to-end lightweight **C++ monocular visual odometry** combining **KLT optical flow tracking** and **robust pose estimation**. Supports **real-time camera trajectory visualization**, demonstrating classical multi-view geometry for spatial perception applications.
 
----
 
 ### 🛠️ My Tech Stack
 
