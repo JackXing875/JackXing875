@@ -20,7 +20,7 @@ My work focuses on building practical and high-performance systems for **autonom
 * **[NeneBot](https://github.com/JackXing875/NeneBot)**
   * A **RAG conversational AI** combining **FAISS semantic retrieval** with pluggable LLM backends (Claude, DeepSeek, or local Ollama). Features **multi-turn session memory**, **SSE token streaming**, a modern **Vue 3 immersive Galgame UI**, and **similarity-threshold filtering** for hallucination-free character reproduction.
     
-* **[FxxkVO](https://github.com/JackXing875/FxxkVO)**
+* **[LiteVO](https://github.com/JackXing875/LiteVO)**
   * End-to-end lightweight **C++ monocular visual odometry** combining **KLT optical flow tracking** and **robust pose estimation**. Supports **real-time camera trajectory visualization**, demonstrating classical multi-view geometry for spatial perception applications.
 
 ### 🛠️ Tech Stack
