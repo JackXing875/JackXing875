@@ -25,7 +25,7 @@ My work focuses on building practical and high-performance systems for **autonom
 
 ### 🛠️ Tech Stack
 
-**Languages:** C++17/20 · Python 3 · Java · Go
+**Languages:** C++17 · Python3 · Java · Go
 
 **SLAM & Perception:** ORB-SLAM3 · Feature-based & Direct VO · VIO · Loop Closure · Dynamic Map Update
 
