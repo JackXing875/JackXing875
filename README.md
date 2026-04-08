@@ -29,7 +29,7 @@ My work focuses on building practical and high-performance systems for **autonom
 
 * **SLAM & Perception:** ORB-SLAM3 · Feature-based & Direct VO · VIO · Loop Closure · Dynamic Map Update
 
-* **Optimization & Theory:** Factor Graph · Bundle Adjustment · Lie Group/Algebra (SO3, SE3) · EKF/ESKF
+* **Optimization & Theory:** Factor Graph · Bundle Adjustment · Lie Group/Algebra · EKF/ESKF
 
 * **Deep Learning:** SuperPoint · SuperGlue · Visual Transformers (ViT)
 
