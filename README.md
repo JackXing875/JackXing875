@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href="https://igorcbraz.vercel.app/">Tim</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/></h2>
+<h2>Hi there, I'm Tim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/></h2>
 
 I'm a second-year undergraduate at **Renmin University of China, Gaoling School of Artificial Intelligence**.
 
