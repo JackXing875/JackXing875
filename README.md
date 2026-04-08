@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Tim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/></h2>
 
-I'm a undergraduate at **Renmin University of China, Gaoling School of Artificial Intelligence**.
+I’m an undergraduate at the Gaoling School of Artificial Intelligence, Renmin University of China.
 
 I am passionate about **Visual SLAM and Multimodal Understanding**, and I strive to develop the next generation of efficient, robust, and intelligent systems for real-world perception, localization, and mapping.
 
