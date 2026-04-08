@@ -25,15 +25,15 @@ My work focuses on building practical and high-performance systems for **autonom
 
 ### 🛠️ Tech Stack
 
-**Languages:** C++17 · Python3 · Java · Go
+* **Languages:** C++17 · Python3 · Java · Go
 
-**SLAM & Perception:** ORB-SLAM3 · Feature-based & Direct VO · VIO · Loop Closure · Dynamic Map Update
+* **SLAM & Perception:** ORB-SLAM3 · Feature-based & Direct VO · VIO · Loop Closure · Dynamic Map Update
 
-**Optimization & Theory:** Factor Graph · Bundle Adjustment · Lie Group/Algebra (SO3, SE3) · EKF/ESKF
+* **Optimization & Theory:** Factor Graph · Bundle Adjustment · Lie Group/Algebra (SO3, SE3) · EKF/ESKF
 
-**Deep Learning:** SuperPoint · SuperGlue · Visual Transformers (ViT)
+* **Deep Learning:** SuperPoint · SuperGlue · Visual Transformers (ViT)
 
-**Libraries & Tools:** Eigen · OpenCV · g2o · Ceres · ROS2 · CUDA
+* **Libraries & Tools:** Eigen · OpenCV · g2o · Ceres · ROS2 · CUDA
 
 
 
