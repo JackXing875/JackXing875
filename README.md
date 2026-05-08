@@ -2,7 +2,7 @@
 
 I’m an undergraduate at the **Gaoling School of Artificial Intelligence, Renmin University of China**.
 
-I am passionate about **Visual SLAM and Multimodal Understanding**, and I strive to develop the next generation of efficient, robust, and intelligent systems for real-world perception, localization, and mapping.
+I am passionate about **Visual SLAM and Multimodal Learning**, and I strive to develop the next generation of efficient, robust, and intelligent systems for real-world perception, localization, and mapping.
 
 Connect with me:
 
