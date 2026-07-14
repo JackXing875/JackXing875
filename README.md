@@ -21,7 +21,7 @@ My work focuses on building practical and high-performance systems for **autonom
   * A **RAG conversational AI** combining **FAISS semantic retrieval** with pluggable LLM backends (Claude, DeepSeek, or local Ollama). Features **multi-turn session memory**, **SSE token streaming**, a modern **Vue 3 immersive Galgame UI**, and **similarity-threshold filtering** for hallucination-free character reproduction.
     
 * **[LiteVO](https://github.com/JackXing875/LiteVO)**
-  * End-to-end lightweight **C++ monocular visual odometry** combining **KLT optical flow tracking** and **robust pose estimation**. Supports **real-time camera trajectory visualization**, demonstrating classical multi-view geometry for spatial perception applications.
+  * An industrial-grade monocular visual SLAM system implementing the full ORB-SLAM3 pipeline: feature-based tracking with ORB descriptors, local bundle adjustment, Sim(3) loop detection and correction, and global pose graph optimization.
 
 ### 🛠️ Tech Stack
 
