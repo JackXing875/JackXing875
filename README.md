@@ -20,7 +20,7 @@ My work focuses on building practical and high-performance systems for **autonom
 * **[NeneBot](https://github.com/JackXing875/NeneBot)**
   * A **RAG conversational AI** combining **FAISS semantic retrieval** with pluggable LLM backends (Claude, DeepSeek, or local Ollama). Features **multi-turn session memory**, **SSE token streaming**, a modern **Vue 3 immersive Galgame UI**, and **similarity-threshold filtering** for hallucination-free character reproduction.
     
-* **[LiteVO](https://github.com/JackXing875/LiteVO)**
+* **[SLAMForge](https://github.com/JackXing875/SLAMForge)**
   * An industrial-grade monocular visual SLAM system implementing the full ORB-SLAM3 pipeline: feature-based tracking with ORB descriptors, local bundle adjustment, Sim(3) loop detection and correction, and global pose graph optimization.
 
 ### 🛠️ Tech Stack
