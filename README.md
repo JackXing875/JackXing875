@@ -47,9 +47,7 @@ My work focuses on building practical and high-performance systems for **autonom
 My favorite anime—*Bloom Into You*.
 
 
-https://github.com/user-attachments/assets/5b094bd3-c039-4386-b909-0c3d668da027
-
-
+https://github.com/user-attachments/assets/fcc9ed05-3008-4af1-a609-c48850d8e4af
 
 
 
