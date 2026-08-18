@@ -21,6 +21,9 @@ Connect with me:
 
 My work focuses on building practical and high-performance systems for **autonomous agents and Visual SLAM**.
 
+
+
+
 * **[NeneBot](https://github.com/JackXing875/NeneBot)**
   * A **RAG conversational AI** combining **FAISS semantic retrieval** with pluggable LLM backends (Claude, DeepSeek, or local Ollama). Features **multi-turn session memory**, **SSE token streaming**, a modern **Vue 3 immersive Galgame UI**, and **similarity-threshold filtering** for hallucination-free character reproduction.
     
@@ -39,6 +42,10 @@ My work focuses on building practical and high-performance systems for **autonom
 
 * **Libraries & Tools:** Eigen · OpenCV · g2o · Ceres · ROS2 · CUDA
 
-https://github.com/user-attachments/assets/e12ae591-410b-4537-b825-78c528fb1c57
+
+https://github.com/user-attachments/assets/271091aa-b59a-4176-bcb3-663d4bc77cb6
+
+
+
 
 
