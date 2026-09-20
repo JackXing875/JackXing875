@@ -2,7 +2,7 @@
 
 
 
-<h2>Hi there, I'm Tim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/></h2>
+<h2>Hi there, I'm Yuu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/></h2>
 
 I’m an undergraduate at the **Gaoling School of Artificial Intelligence, Renmin University of China**.
 
