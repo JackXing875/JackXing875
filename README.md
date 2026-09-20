@@ -42,15 +42,6 @@ My work focuses on building practical and high-performance systems for **autonom
 
 * **Libraries & Tools:** Eigen · OpenCV · g2o · Ceres · ROS2 · CUDA
 
-### 🌸 Bloom Into You
-
-My favorite anime—*Bloom Into You*.
-
-
-https://github.com/user-attachments/assets/fcc9ed05-3008-4af1-a609-c48850d8e4af
-
-
-
 
 
 
