@@ -16,7 +16,9 @@ Connect with me:
 
 ### 🔬 Research & Projects
 
-* **[Constraint-Guided Prompting and Semantic-Aware Evaluation for LLM-Based ABSA](https://link.springer.com/chapter/10.1007/978-981-92-3435-6_2)** — *Muzhi Li, **Tiancheng Xing**, Yuheng Wang*, **ICIC 2026 · Springer LNAI**
+* **[Constraint-Guided Prompting and Semantic-Aware Evaluation for LLM-Based ABSA](https://link.springer.com/chapter/10.1007/978-981-92-3435-6_2)**
+  
+ — *Muzhi Li, **Tiancheng Xing**, Yuheng Wang*, **ICIC 2026 · Springer LNAI**
 
   * Introduces **Constraint-Guided Prompting (CGP)** for more reliable structured extraction with large language models and **Sem-F1**, a semantic-aware evaluation protocol for Aspect-Based Sentiment Analysis.
 
