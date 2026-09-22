@@ -38,16 +38,3 @@ I also have experience in **Visual SLAM and robotic perception**, which has shap
 * **Video Generation:** Diffusion Models · Flow Matching · Video DiT · Autoregressive / Chunk-wise Generation · Feature & KV Caching
 * **Embodied Intelligence:** Vision-Language-Action Models · World Models · Efficient Embodied Reasoning
 
-### 🛠️ Tech Stack
-
-* **Languages:** Python · C++17 · Java · Go
-
-* **Multimodal & LLM:** PyTorch · Hugging Face Transformers · Vision-Language Models · Qwen3-VL · RAG
-
-* **Efficient Inference:** KV Cache Compression · Token Pruning · Sparse Attention · FlashAttention · FlashInfer · CUDA
-
-* **Video Generation:** Diffusion Models · Flow Matching · Video DiT · Autoregressive / Chunk-wise Generation · Feature Caching
-
-* **Vision & Robotics:** Visual SLAM · ORB-SLAM3 · Visual Odometry · OpenCV · ROS2
-
-* **Libraries & Tools:** FAISS · Eigen · g2o · Ceres · CUDA
