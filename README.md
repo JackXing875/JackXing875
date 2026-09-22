@@ -14,7 +14,7 @@ I also have experience in **Visual SLAM and robotic perception**, which has shap
 
 ---
 
-### 🔬 Research & Projects
+### 🚀 Research & Projects
 
 * **[Constraint-Guided Prompting and Semantic-Aware Evaluation for LLM-Based ABSA](https://link.springer.com/chapter/10.1007/978-981-92-3435-6_2)**
   
