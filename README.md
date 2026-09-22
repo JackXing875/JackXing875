@@ -24,11 +24,12 @@ Connect with me:
 
 * **[NeneBot](https://github.com/JackXing875/NeneBot)**
 
-  * A **RAG conversational AI** combining **FAISS semantic retrieval** with pluggable LLM backends including Claude, DeepSeek, and local Ollama. Features **multi-turn session memory**, **SSE token streaming**, a modern **Vue 3 immersive Galgame UI**, and **similarity-threshold filtering** for faithful character reproduction.
+  * A **source-grounded character conversational AI** that uses RAG over original game scripts to preserve character knowledge and persona. It combines **FAISS-based semantic retrieval**, pluggable local/cloud LLM backends, **multi-turn session memory**, real-time SSE streaming, and an immersive **Vue 3 visual-novel interface**.
 
 * **[SLAMForge](https://github.com/JackXing875/SLAMForge)**
 
-  * A monocular visual SLAM system implementing the core ORB-SLAM3 pipeline, including **ORB-based tracking**, **local bundle adjustment**, **Sim(3) loop detection and correction**, and **global pose graph optimization**.
+  * A **C++20 monocular visual SLAM and dense reconstruction system** inspired by ORB-SLAM3. It combines geometric tracking, local bundle adjustment, **Sim(3) loop closure**, and pose-graph optimization with **learned monocular depth**, using sparse SLAM landmarks and multi-view consistency to reconstruct a colored dense 3D map.
+
 
 ### 🧠 Research Interests
 
