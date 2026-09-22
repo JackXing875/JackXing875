@@ -17,7 +17,7 @@ Connect with me:
 ### 🔬 Research & Publications
 
 * **[Constraint-Guided Prompting and Semantic-Aware Evaluation for LLM-Based ABSA](https://link.springer.com/chapter/10.1007/978-981-92-3435-6_2)**
-* 
+  
   ---- *Muzhi Li, **Tiancheng Xing**, Yuheng Wang*
   **ICIC 2026 · Springer LNAI**
 
