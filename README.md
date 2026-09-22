@@ -14,7 +14,7 @@ Connect with me:
 
 ---
 
-### 🔬 Research & Publications
+### 🔬 Research & Projects
 
 * **[Constraint-Guided Prompting and Semantic-Aware Evaluation for LLM-Based ABSA](https://link.springer.com/chapter/10.1007/978-981-92-3435-6_2)**
   
@@ -22,8 +22,6 @@ Connect with me:
   **ICIC 2026 · Springer LNAI**
 
   * Introduces **Constraint-Guided Prompting (CGP)** for more reliable structured extraction with large language models and **Sem-F1**, a semantic-aware evaluation protocol for Aspect-Based Sentiment Analysis.
-
-### 🚀 Key Projects
 
 * **[NeneBot](https://github.com/JackXing875/NeneBot)**
 
