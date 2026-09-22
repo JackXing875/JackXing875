@@ -6,7 +6,7 @@ My current research interests lie in **Multimodal Reasoning**, **Efficient Multi
 
 I also have experience in **Visual SLAM and robotic perception**, which has shaped my interest in building efficient and robust intelligent systems that can perceive, reason about, and interact with the real world.
 
-Connect with me:
+**Connect with me:**
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge\&logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=1X2VP3AAAAAJ&hl=en) 
 [![X (Twitter)](https://img.shields.io/badge/X_\(Twitter\)-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Schrieffer875) 
