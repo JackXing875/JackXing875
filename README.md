@@ -2,9 +2,9 @@
 
 I’m an undergraduate at the **Gaoling School of Artificial Intelligence, Renmin University of China**.
 
-My current research interests lie in **Multimodal Reasoning**, **Efficient Multimodal Models**, and **Video Generation**. In particular, I am interested in understanding and reducing computational redundancy in multimodal models through **KV cache compression**, **token pruning**, **sparse attention**, and **adaptive caching**.
+My current research interests focus on **Efficient Video Generation** and **Post-Training for Large Language Models (LLMs)**. For video generation, I am interested in improving computational and memory efficiency through **token pruning**, **sparse attention**, and **KV cache optimization**. For LLMs, I focus on **post-training** methods, particularly reinforcement learning and reward-based optimization, to improve reasoning capabilities and task performance.
 
-I also have experience in **Visual SLAM and robotic perception**, which has shaped my interest in building efficient and robust intelligent systems that can perceive, reason about, and interact with the real world.
+I also have experience in **Visual SLAM and robotic perception**, which has shaped my broader interest in building efficient and reliable intelligent systems.
 
 **Connect with me:**
 
